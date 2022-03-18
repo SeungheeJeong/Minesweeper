@@ -1,0 +1,5 @@
+#Mac
+*.log
+*.bak
+.DS_Store
+/node_modules
